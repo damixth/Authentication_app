@@ -2,10 +2,10 @@
 
 Developed using Nodejs.
 
-To run the application use
-## npm start 
+## To run the application use
+# npm start 
 
-Install the modules
-## npm install
+##Install the modules
+# npm install
 
-set environment variable if needed
+## set environment variable if needed
